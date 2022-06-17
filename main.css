@@ -57,15 +57,14 @@ ul{
 }
 
   .btn {
-    position: left;
-    top: 20px;
-    left: 250px;
+    position: absolute;
+    margin-top: 17rem;
+    margin-left: 14rem;
     height: 50px;
     width: 50px;
     border-radius: 50%;
     border: none;
     color: var(--btnFontColor);
     background-color: var(--btnBg);
-    margin-top: 15rem;
-    margin-left: 15px;
+
   }
