@@ -67,4 +67,5 @@ ul{
     color: var(--btnFontColor);
     background-color: var(--btnBg);
     margin-top: 15rem;
+    margin-left: 10px;
   }
